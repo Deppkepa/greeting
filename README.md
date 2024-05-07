@@ -1,6 +1,5 @@
 # greeting
-https://github.com/Deppkepa/greeting.git
-В проекте представлена одна единственная функция add(x,y), которая складывает два числа (x,y) и возвращает их сумму.
+В проекте представлена функция, которая здоровается с пользователем.
 # Установка
 `pip install -e git+https://github.com/Deppkepa/greeting.git`
 
