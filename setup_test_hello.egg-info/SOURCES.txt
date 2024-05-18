@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+setup_test_hello.egg-info/PKG-INFO
+setup_test_hello.egg-info/SOURCES.txt
+setup_test_hello.egg-info/dependency_links.txt
+setup_test_hello.egg-info/requires.txt
+setup_test_hello.egg-info/top_level.txt
+src/__init__.py
+src/name.py
+tests/__init__.py
+tests/name_test.py

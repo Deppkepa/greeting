@@ -1,3 +1,5 @@
+https://github.com/Deppkepa/greeting/tree/PyPI
+
 # greeting
 В проекте представлена функция, которая здоровается с пользователем.
 # Установка

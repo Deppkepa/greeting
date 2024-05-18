@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: setup_test_hello
+Version: 1.0
+Summary: Тестовая функция привествия пользователя по имени для изучения setup.
+Home-page: https://github.com/Deppkepa/greeting.git
+Author: Deppkepa
+Author-email: dasha.sisimirova@bk.ru
+License: CC0-1.0 license
+Requires-Python: >=0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pytest
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+
+https://github.com/Deppkepa/greeting/tree/PyPI
+
+# greeting
+В проекте представлена функция, которая здоровается с пользователем.
+# Установка
+`pip install -e git+https://github.com/Deppkepa/greeting.git`
+
+или
+
+`git clone https://github.com/Deppkepa/greeting.git`
+
+`cd greeting`
+
+`sudo python3 setup.py install`
